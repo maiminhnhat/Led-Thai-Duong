@@ -1,0 +1,40 @@
+footer{
+    background-image: url("../img/footer.png");
+}
+footer .footer-top ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+
+}
+footer .footer-top ul li{
+    padding: 47px;
+}
+footer .footer-top ul li a{
+    color: white;
+}
+footer .footer-top ul li a:hover{
+    color: lawngreen;
+}
+
+h1 {
+    font-size: 20pt;
+    color: white;
+}
+h6{
+    color: white;
+}
+
+footer .footer-bottom .policy ul{
+    color: white;
+    font-size: 13px;
+    padding-left: 20px;
+}
+
+footer .footer-bottom .policy ul li a{
+    color: white;
+
+}
+footer .footer-bottom .policy ul li a:hover{
+    color: lawngreen;
+}

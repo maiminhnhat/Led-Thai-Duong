@@ -1,0 +1,51 @@
+.prduct-list .list-header h1{
+    color: lawngreen;
+    font-size: 40pt;
+}
+
+.prduct-list .list-product h5 {
+    color: lawngreen;
+    text-align: center;
+    font-size: 13pt;
+    
+    
+
+}
+.prduct-list .list-product img{
+   padding-left: 16px;
+    margin-top: 20px;
+    width: 100%;
+    padding-right: 16px;
+}
+
+.prduct-list .list-product h6 {
+    color: black;
+    text-align: center;
+    font-size: 13pt;
+    line-height: 22px;
+    
+
+
+}
+
+.prduct-list .list-product .btn.btn-view{
+    margin-left: 121px;
+    margin-bottom: 20px;
+}
+
+.prduct-list .list-product .product{
+    border-style: solid;
+    border-width: thin;
+    border-color: wheat;
+    margin-bottom: 20px;
+
+}
+
+.prduct-list .list-product .product:hover{
+    box-shadow: 0px 3px 5px grey;
+}
+
+
+
+
+

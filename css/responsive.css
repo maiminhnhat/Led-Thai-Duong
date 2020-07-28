@@ -1,0 +1,73 @@
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .container{
+        width: 768px;
+    }
+    .carousel {
+        position: relative;
+        width: 769px;
+    }
+    .navbar-nav {
+       
+        display: grid;
+        margin: 0;
+    }
+    .navbar-nav>li {
+        float: left;
+        padding-bottom: 20px;
+    }
+    main .main-service .service{
+        margin-right: -22px;
+        width: 770px;
+    }
+    main .main-service .service img {
+        padding-left: 98px;
+    padding-top: 46px;
+    position: absolute;
+    top: -45px;
+  
+    height: 121px;
+
+    }
+   
+    main .main-left .adv {
+        position: absolute;
+        top: 0;
+        right: 548px;
+    }
+
+    main .main-left .caption {
+        position: absolute;
+        top: 996px;
+        background-color: #7c7b7b;
+        opacity: 0.5;
+        padding-left: 202px;
+        padding-right: 211px;
+    
+    }
+    .main-right .product-list-1 .navigation .nav.navbar-nav {
+        position: absolute;
+        left: 422px;
+        top: -6px;
+        display: flex;
+    }
+    .main-right .product-list-2 .navigation .nav.navbar-nav {
+        position: absolute;
+        left: 221px;
+        top: -6px;
+        display: flex;
+    }
+    footer .footer-top ul {
+        display: none;
+       
+    }
+    footer .footer-bottom .fanpage{
+        display: none;
+    }
+    footer .footer-bottom .infor{
+        display: none;
+    }
+    
+
+    
+    
+}

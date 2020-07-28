@@ -1,0 +1,75 @@
+header .header-top{
+    background-image: url(../img/top-bg.png);
+    
+  
+ 
+}
+header .header-top .container{
+    display: flex;
+ 
+  
+}
+header .header-top .band{
+    color: white;
+    
+}
+header .header-top .band{
+    font-size: 13pt;
+    font-family: 'Open Sans Regular';
+}
+
+header .header-top .container .icon{
+    position: absolute;
+    right: 100px;
+    font-size: 22px;
+
+}
+header .header-top .container .icon a{
+    padding: 5px;
+    color: #83dc36;
+}
+header .header-top .container .icon a:hover{
+    color: white;
+
+}
+
+header .header-center{
+    padding-top: 35px;
+}
+.input-group input {
+    border-color: #83dc36;
+    border-radius: 20px;
+    border-width: 2px;
+    padding: 20px;
+    box-sizing: border-box;
+
+
+   
+}
+.input-group .input-group-btn .btn.btn-default{
+    border-color: #83dc36;
+    border-top-right-radius: 17px;
+    border-bottom-right-radius: 17px;
+    background-color: #83dc36;
+    padding-right: 20px;
+    font-size: 21px;
+}
+.input-group .input-group-btn .btn.btn-default .glyphicon.glyphicon-search
+{
+    font-size: 13px;
+    padding-right: 19px;
+    padding-left: 7px;
+}
+
+ 
+header .header-center .contact h6{
+    font-size: 12px;
+    color: grey;
+
+}
+header .header-center .contact h6 i{
+    color: #83dc36;
+    padding-right: 7px;
+    font-size: 15px;
+}
+ 

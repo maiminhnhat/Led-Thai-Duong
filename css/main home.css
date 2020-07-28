@@ -1,0 +1,251 @@
+/* main-service */
+main .main-service .service{
+    border-style: solid;
+    border-width: 1px;
+    padding-bottom: 20px;
+    border-color: #e2e2e2;
+  
+   
+}
+main .main-service .service:hover{
+    color: #83dc36;
+   
+}
+main .main-service .service img{
+    padding-left: 110px;
+    padding-top: 45px;
+ 
+}
+main .main-service .service h5{
+    text-align: center;
+}
+main .main-service .service h6{
+    text-align: center;
+    color: black;
+}
+/* main-service */
+
+
+
+/* main-left */
+main .main-left{
+    padding-top: 20px;
+}
+
+main .main-left .adv{
+    position: absolute;
+    top: 0;
+    right:20px;
+}
+main .main-left .caption{
+    position: absolute;
+    top: 387px;
+    background-color: #7c7b7b;
+    opacity: 0.5;
+    padding-left: 6px;
+}
+main .main-left .caption:hover{
+    opacity: 1;
+}
+
+main .main-left .caption h2 {
+    font-size: 28px;
+    text-align: center;
+    color: white;
+    padding-right: 8px;
+    padding-bottom: 14px;
+}
+
+main .main-left .center-list .list-group .list-group-item img{
+    max-width: 100%;
+    padding-top: 23px;
+}
+.btn.btn-view{
+    margin-left: 95px;
+    color: #fff;
+    background-color: #83dc36;
+    border-color: #83dc36;
+    border-radius: 35px;
+}
+.btn.btn-view:hover{
+    color: lawngreen;
+    background: white;
+}
+
+.center-list .list-group .list-group-item h5 {
+    font-size: 11pt;
+    position: absolute;
+    top: 30px;
+    left: 119px;
+    margin-right: 20px;
+}
+
+.fa.fa-circle
+{
+    color:#83dc36; 
+    padding-right: 15px;
+}
+.title-center{
+    color: grey;
+    font-size: 16pt;
+
+}
+.center-list{
+    padding-top: 10px;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0px 3px 5px grey;
+}
+.center-list .list-group .list-group-item a{
+    color: black;
+}
+.center-list .list-group .list-group-item a:hover{
+    color: lawngreen;
+}
+/* main-left */
+
+/* main-right */
+.main-right .product-list{
+    border-style: solid;
+    border-width: thin;
+    border-color: grey;
+    padding-bottom: 15px;
+    box-shadow: 0px 3px 5px grey;
+    margin-top: 13px
+}
+
+.main-right .item .btn.btn-new {
+    position: absolute;
+    top: 21px;
+    right: 42px;
+    border-radius: 0;
+    background-color: lawngreen;
+    color: white;
+
+}
+.main-right .item{
+    border: 1px solid transparent;
+    transition: all 0.5s linear;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+    text-align: center;
+}
+
+.main-right .item .card-body .card-title .btn.btn-view{
+   margin-left: 0;
+   margin-bottom: 10px;
+}
+
+.main-right .item:hover{
+    border: 1px solid grey;
+    
+}
+
+.main-right .card-body .card-title h5{
+    color: lawngreen;
+    text-align: center;
+    font-size: 13pt;
+    padding-bottom: 10px;
+}
+.main-right .card-body .card-title h6{
+    color: black;
+    text-align: center;
+    padding-bottom: 15px;
+
+}
+
+.navigation .navbar.navbar-default{
+    background-color: white;
+}
+.navigation .nav.navbar-nav li a{
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.navigation .nav.navbar-nav li a:hover{
+    color: white;
+    background: lawngreen;
+}
+
+
+
+ .main-right .product-list-SALE{
+    margin-top: 20px;
+    border-style: solid;
+    border-width: thin;
+    padding-bottom: 15px;
+ 
+
+ }
+ .product-list-SALE .navigation .nav.navbar-nav li a:hover{
+     color: lawngreen;
+     background: white;
+ }
+ .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+   
+}
+
+
+.main-right .product-list-1{
+    margin-top: 20px;
+    border-style: solid;
+    border-width: thin;
+    padding-bottom: 15px;
+ 
+
+ }
+
+.main-right .product-list-1 .navigation .nav.navbar-nav{
+    position: absolute;
+    left: 720px;
+    top: -6px;
+}
+
+.main-right .product-list-1 .navigation .navbar-header .navbar-brand{
+    color: lawngreen;
+    
+}
+
+
+
+.main-right .product-list-2{
+    margin-top: 20px;
+    border-style: solid;
+    border-width: thin;
+    padding-bottom: 1px;
+ 
+
+ }
+
+ 
+.main-right .product-list-2 .navigation .nav.navbar-nav{
+    position: absolute;
+    left: 510px;
+    top: -6px;
+}
+
+
+.main-right .product-list-2 .navigation .navbar-header .navbar-brand{
+    color: lawngreen;
+    
+}
+.owl-carousel .owl-nav.disabled {
+    display: block;
+}
+
+/* main-right */
+
+
+

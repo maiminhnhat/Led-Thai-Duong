@@ -1,0 +1,19 @@
+@font-face
+{
+    font-family: 'Open Sans Regular';
+    src: url(../fonts/OpenSans-Regular.ttf);
+
+}
+
+a{
+    text-decoration: none !important;
+
+}
+
+.container {
+    width: 1440px;
+    overflow: hidden;
+}
+.p-0{
+    padding: 0;
+}
